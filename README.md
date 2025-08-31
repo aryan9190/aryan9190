@@ -7,7 +7,6 @@
 ## 🚀 About Me
 
 - 💻 **Full-stack Developer** with experience in **Svelte**, **React**, **Node.js**, and **Python**.
-- 🛠️ Working on **Blockchain-enabled Electronic Voting Machines**.
 - 🔧 Skilled in **Cybersecurity** and active participant in **CTFs**.
 - 🎓 Learning new technologies like **Rust** and **Go**.
 - 🏆 Achieved milestones in **TryHackMe** and other security platforms.
